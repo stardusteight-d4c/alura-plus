@@ -16,3 +16,4 @@ divide the screen into two columns, and removing it in the mobile version. Also 
 <li> Using flexbox and its meaning;
 <li> Flex-containers, flex-items, flex-direction;
 
+![demo](demo.png)
