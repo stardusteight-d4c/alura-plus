@@ -59,7 +59,7 @@
     display: block;
     text-decoration: none;
     margin-bottom: 1em;
-    transition: .5s;
+    transition: .1s;
 }
 
 .container__botao:hover {
